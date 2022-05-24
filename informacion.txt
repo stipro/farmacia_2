@@ -1,0 +1,41 @@
+Cajero
+Inicio de sesión / cierre de sesión seguro
+https://compubinario.com/sistema-de-venta-para-farmacias/
+Resumen de listas de visualización
+Mostrar existencias disponibles del producto
+POS
+Modal de pago
+Recibo imprimible
+Ventas
+Muestra solo los datos procesados por el cajero actual
+Mostrar un informe de transacciones de ventas por fecha
+Imprimir informe por fecha
+Ver recibo de transacción
+Imprimir recibo de transacción
+Administrar las credenciales de la cuenta
+Acceso de administrador predeterminado
+
+Nombre de usuario: admin
+Contraseña: admin123
+Muestra de acceso al cajero
+Nombre de usuario: jsmith
+Contraseña: jsmith
+
+Panel de administrador
+Inicio de sesión / cierre de sesión seguro
+Resumen de listas de visualización
+Mostrar existencias disponibles del producto
+Reabastecer el producto cuando la disponibilidad de stock sea inferior a 50
+Administrar lista de categorías de productos / medicamentos (CRUD)
+Gestionar lista de productos (CRUD)
+Gestionar existencias (CRUD)
+POS
+Modal de pago
+Recibo imprimible
+Mostrar un informe de transacciones de ventas por fecha
+Imprimir informe por fecha
+Ver recibo de transacción
+Imprimir recibo de transacción
+Eliminar transacción
+Administrar lista de usuarios (CRUD)
+Administrar las credenciales de la cuenta
